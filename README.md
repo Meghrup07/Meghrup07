@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Meghshyam
 - 👀 I’m a Software Engineer...
-- 🌱 I’m currently Working as a Software Engineer at Helios Solution ...
+<!--- - 🌱 I’m currently Working as a Software Developer at Helios Solution ... --->
 - 📫 To reach me ... meghrup2519@gmail.com OR https://meghshyam.netlify.app/
 
 <!---
